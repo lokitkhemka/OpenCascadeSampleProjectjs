@@ -6,7 +6,7 @@ var MainInterfaceLayout, MonacoEditor, threejsViewport,
 window.workerWorking = false;
 
 let DefaultCode =
-    `// Welcome to Cascade Studio!   Here are some useful functions:
+    `Here are some useful functions:
 //  Translate(), Rotate(), Scale(), Mirror(), Union(), Difference(), Intersection()
 //  Box(), Sphere(), Cylinder(), Cone(), Text3D(), Polygon()
 //  Offset(), Extrude(), RotatedExtrude(), Revolve(), Pipe(), Loft(), 
