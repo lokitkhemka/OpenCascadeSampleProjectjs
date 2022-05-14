@@ -1,10 +1,6 @@
 {
 	"name": "SampleOCCProject",
 	"description": "OpenCASCADE.js Sample Project",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/zalo/CascadeStudio.git"
-	},
 	"author": {
 		"name": "Lokit Khemka"
 	},
